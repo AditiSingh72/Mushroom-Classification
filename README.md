@@ -2,7 +2,7 @@
 
 Welcome to the Mushroom Classification project, an application of machine learning and data science that helps individuals identify and classify various species of mushrooms. Whether you're a forager, mushroom enthusiast, or just curious about the fascinating world of fungi, this project is designed to provide valuable insights into different mushroom species and their edibility.
 
-![Mushroom Classification](images/mushroom-classification.png)
+
 
 ## Table of Contents
 
